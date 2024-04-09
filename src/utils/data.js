@@ -76,7 +76,7 @@ export const WORK_EXPERIENCE = [
   // },
   {
     title: "Software Engineer at Globallogic",
-    date: "May 2019 - August 2019",
+    date: "jun 2021 - August 2022",
     responsibilities: [
       "Assisted in the development of a new e-commerce platform, contributing to the implementation of frontend features using React.js.",
       "Conducted performance optimization tasks, resulting in a 15% improvement in page load times.",
