@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: my-portfolio-service
 spec:
-  type: NodePort
+  type: LoadBalancer
   selector:
     app: my-portfolio
   ports:
@@ -11,4 +11,3 @@ spec:
       port: 80
       targetPort: 3000
       nodePort: 30080
-
